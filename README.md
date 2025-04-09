@@ -25,6 +25,8 @@ This project is an automation tool for Open Source Intelligence (OSINT) collecti
 Clone the repository:
 
 git clone https://github.com/absr24434/Osint-tool.git
+
+## Type
 cd Osint-tool
 
 ## Install the dependencies:
