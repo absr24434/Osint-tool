@@ -22,12 +22,22 @@ This project is an automation tool for Open Source Intelligence (OSINT) collecti
 
 ## Setup
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/absr24434/Osint-tool.git
+Clone the repository:
+
+git clone https://github.com/absr24434/Osint-tool.git
+cd Osint-tool
+
+## Install the dependencies:
+
+pip install -r requirements.txt
+
+## Installation Process
+
+-To install all required libraries at once, run this command:
+
+pip install requests python-whois beautifulsoup4 dnspython shodan tweepy
 
 ## Usage
-
 -To use the OSINT tool, run the following command:
 
-python Osint_tool.py
+python Osint_tool.py --target <your_target> --source <source>
