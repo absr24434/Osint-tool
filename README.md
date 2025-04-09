@@ -26,7 +26,7 @@ This project is an automation tool for Open Source Intelligence (OSINT) collecti
    ```bash
    git clone https://github.com/absr24434/Osint-tool.git
 
-##Usage
+## Usage
 
 -To use the OSINT tool, run the following command:
 
